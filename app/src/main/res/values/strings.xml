@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">t3a1-Vernich-Adrian</string>
+
+    <string name="textoDescripcion">
+        Una receta ideal\n
+        para iniciarse con\n
+        los cupcakes, con la\n
+        que preparar unos\n
+        ricos cupcakes de\n
+        vainilla con cobertura\n
+        de buttercream,\n
+        cobertura de la que\n
+        os proponemos tres\n
+        versiones.
+    </string>
+
+    <string name="textoIngredientes">
+        - 165 gramos de\n
+        harina de repostería\n
+        - 165 gramos de\n
+        mantequilla sin sal\n
+        - 165 gramos de\n
+        sal\n
+        - 15 ml de esencia de\n
+        vainilla\n
+        - 50 ml de leche\n
+        -5 gramos de levadura\n
+        - 3 huevos medianos\n
+    </string>
+
+    <string name="textoReceta">
+        Una vez que tenemos el horno en marcha, y\n
+        todos nuestros ingredientes medidos y pesados,\n
+        vamos a comenzar a preparar la base de nuestros\n
+        cupcakes. Nosotros empleamos una amasadora\n
+        automática, pero se pueden emplear también unas\n
+        varillas manuales o un robot de cocina, lo que os\n
+        resulte más comodo dentro de lo que dispongáis.
+    </string>
+</resources>
